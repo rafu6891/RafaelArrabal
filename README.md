@@ -1,10 +1,10 @@
-# Hola a todos! Bienvenido a mi perfil de Github.
+# Hello world! Welcome to my Github.
 
-### Aqui podras encontrar todo el codigo que he ido aprendiendo y proyectos en los que estoy trabajando.
+### Here you can find all the code that I have been learning and projects I am working on. 
 
 
 ![](https://www.xtrafondos.com/wallpapers/ciudad-nocturna-en-arte-neon-3474.jpg)
 
-## Mis repositorios
+## See you!!
 
 
